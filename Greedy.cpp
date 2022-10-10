@@ -1,3 +1,4 @@
+#要求投票，找最小拉票人数。给定一个数组x，x为各个部门的人数。 只要部门i的人数超过一半被拉票，这个部门就算1票。
 #include <iostream>
 #include <vector>
 #include <algorithm>
