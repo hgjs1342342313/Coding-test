@@ -3,6 +3,7 @@
 //Leetcode 416 plus（416是正序求两个dp）
 //倒序求dp
 //不知道为什么不能过case1
+//知道为什么了，指针创建数组没有初始化内存地址。
 using namespace std;
 int main(){
     int weight = 0;
