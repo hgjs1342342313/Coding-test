@@ -1,0 +1,2 @@
+This is the Folder that used to train C++ programming skills. The server is from UCR cs100 course. The files in this folder are only used to train C++ programming by me.
+You can easily see the programming solutions but I didn't write many questions to them. You can see the solutions but I do not promise the question is exactly what you are looking for.
